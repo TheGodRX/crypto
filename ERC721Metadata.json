@@ -1,0 +1,24 @@
+{
+    "description": "NinkyoGirlNFT #1",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYBU9JtfMuhanY27h9vr4uEQ8tAmFaUFzNUE7sTKskZaZ",
+    "name": "NinkyoGirlNFT#1",
+    "attributes": [
+        {
+            "trait_type": "Author", 
+            "value": "Franki Banks
+      },  
+      {
+            "trait_type": "Colour", 
+            "value": "Pink and Blue"
+      }, 
+      {
+            "trait_type": "Pixel Art", 
+            "value": "Collectible"
+      }, 
+      {
+          "display_type": "date", 
+          "trait_type": "Published", 
+          "value": 1531951200
+      }
+]
+}
